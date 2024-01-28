@@ -2,4 +2,4 @@
 This is a compilation of all my work during CSC 20
 
 - Lab 1: Magic Ball Game, Build an array from a txt file and randomizes answers provided to output.
-- Assignment 1: 
+- Assignment 1: Cannot Post until end of semester.
