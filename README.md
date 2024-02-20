@@ -14,6 +14,9 @@ This repository serves as a comprehensive record of my academic pursuits in CSC 
 - **Lab 4: Object-oriented Composition**
   - Description: Embark on a symphonic journey through object-oriented composition, orchestrating the manipulation and arrangement of Student objects within a harmonious ArrayList ensemble.
 
+- **Lab 5: Inheritance**
+  - Descritpion: 
+
 - **Assignment 1: Cartographic Inquiry**
   - Description: Navigate the intricate pathways of Java programming as you undertake the construction of a comprehensive shopping cart system, facilitating seamless item addition and removal within an array-based framework.
 
