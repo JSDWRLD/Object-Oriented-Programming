@@ -15,7 +15,7 @@ This repository serves as a comprehensive record of my academic pursuits in CSC 
   - Description: Embark on a symphonic journey through object-oriented composition, orchestrating the manipulation and arrangement of Student objects within a harmonious ArrayList ensemble.
 
 - **Lab 5: Inheritance**
-  - Descritpion: 
+  - Descritpion: This lab was meant to practice debugging and the use of inheritance and polymorphism
 
 - **Assignment 1: Cartographic Inquiry**
   - Description: Navigate the intricate pathways of Java programming as you undertake the construction of a comprehensive shopping cart system, facilitating seamless item addition and removal within an array-based framework.
