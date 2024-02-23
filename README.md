@@ -16,7 +16,10 @@ This repository serves as a comprehensive record of my academic pursuits in CSC 
 
 - **Lab 5: Inheritance**
   - Descritpion: This lab was meant to practice debugging and the use of inheritance and polymorphism
-
+ 
+- **Lab 6: Untitled**
+  - Descritpion: 
+     
 - **Assignment 1: Cartographic Inquiry**
   - Description: Navigate the intricate pathways of Java programming as you undertake the construction of a comprehensive shopping cart system, facilitating seamless item addition and removal within an array-based framework.
 
