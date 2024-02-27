@@ -1,27 +1,35 @@
 # CSC-20 Advanced Java
 
-This repository serves as a comprehensive record of my academic pursuits in CSC 20.
+This repository documents my academic journey through CSC 20, highlighting key concepts and projects.
 
 - **Lab 1: The Oracle Algorithm**
-  - Description: Delve into the mystical realms of Java programming as you construct an algorithmic oracle that conjures responses from a text-file-based array, imparting wisdom through randomized revelations.
+  - Applied Concepts: File I/O, Arrays, Randomization.
+  - Description: Implementing an algorithmic oracle that retrieves responses from a text-file-based array, providing randomized insights.
 
 - **Lab 2: Integer Manifestation**
-  - Description: Embark on a structured exploration of integer tokenization within the realm of file input-output operations, as you diligently assemble and display numeric tokens within an array.
+  - Applied Concepts: File I/O, Tokenization, Arrays.
+  - Description: Exploring integer tokenization and display within an array structure through file input-output operations.
 
 - **Lab 3: Visual Abstraction**
-  - Description: Engage in a creative synthesis of graphical abstraction within a two-dimensional interface, reminiscent of the avant-garde Etch-A-Sketch paradigm, exploring the bounds of visual representation through random strokes of algorithmic creativity.
+  - Applied Concepts: GUI, 2D Graphics, Creativity.
+  - Description: Experimenting with graphical abstraction in a 2D interface, akin to an Etch-A-Sketch paradigm, through algorithmic strokes of creativity.
 
 - **Lab 4: Object-oriented Composition**
-  - Description: Embark on a symphonic journey through object-oriented composition, orchestrating the manipulation and arrangement of Student objects within a harmonious ArrayList ensemble.
+  - Applied Concepts: OOP, Composition, ArrayList.
+  - Description: Orchestrating manipulation and arrangement of Student objects within an ArrayList ensemble, demonstrating object-oriented composition.
 
-- **Lab 5: Inheritance**
-  - Descritpion: This lab was meant to practice debugging and the use of inheritance and polymorphism
- 
-- **Lab 6: Phone Book Mapping**
-  - Descritpion: This program is a phone directory that reads the name of friends and their phone numbers from a data file. Then we take the data and use the hashmap data structure to store and access the data.
-     
+- **Lab 5: Mastering Lineage**
+  - Applied Concepts: Debugging, Inheritance, Polymorphism.
+  - Description: Navigating code complexities, debugging, and exploring inheritance and polymorphism's power and dynamics.
+
+- **Lab 6: Teleporting Friends**
+  - Applied Concepts: Data Structures, HashMap, File Handling.
+  - Description: Building a phone directory using hashmap data structure to store and access friends' names and phone numbers from data files.
+
 - **Assignment 1: Cartographic Inquiry**
-  - Description: Navigate the intricate pathways of Java programming as you undertake the construction of a comprehensive shopping cart system, facilitating seamless item addition and removal within an array-based framework.
+  - Applied Concepts: OOP, Array-based Framework, Shopping Cart Logic.
+  - Description: Constructing a comprehensive shopping cart system facilitating seamless item addition and removal within an array-based framework.
 
 - **Assignment 2 (Locked): Parcel Dynamics**
-  - Description: Explore the intricacies of object-oriented inheritance as you unlock the secrets of class composition, crafting TwoDayPackage and OverNightPackage entities that dynamically inherit and extend each other's functionality.
+  - Applied Concepts: OOP, Inheritance, Class Composition.
+  - Description: Exploring object-oriented inheritance and class composition by crafting TwoDayPackage and OverNightPackage entities with dynamically extended functionalities.
