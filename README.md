@@ -34,6 +34,6 @@ This repository documents my academic journey through CSC 20, highlighting key c
   - Applied Concepts: OOP, Array-based Framework, Shopping Cart Logic.
   - Description: Constructing a comprehensive shopping cart system facilitating seamless item addition and removal within an array-based framework.
 
-- **Assignment 2 (Locked): Parcel Dynamics**
+- **Assignment 2: Parcel Dynamics**
   - Applied Concepts: OOP, Inheritance, Class Composition.
   - Description: Exploring object-oriented inheritance and class composition by crafting TwoDayPackage and OverNightPackage entities with dynamically extended functionalities.
