@@ -26,9 +26,9 @@ This repository documents my academic journey through CSC 20, highlighting key c
   - Applied Concepts: Data Structures, HashMap, File Handling.
   - Description: Building a phone directory using hashmap data structure to store and access friends' names and phone numbers from data files.
 
-- **Lab 7: Redacted**
-  - Applied Concepts: 
-  - Description: 
+- **Lab 7: Process Scheduling**
+  - Applied Concepts: Stacks, Queues
+  - Description: This program simulates a process scheduler. The scheduler should use a queue to manage tasks and a stack to temporarily hold tasks.
 
 - **Assignment 1: Cartographic Inquiry**
   - Applied Concepts: OOP, Array-based Framework, Shopping Cart Logic.
