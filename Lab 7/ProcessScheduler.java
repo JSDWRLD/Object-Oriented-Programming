@@ -10,7 +10,7 @@ import java.util.*;
 /**
 * Program that reads tasks from file tasks.txt and schedules them for execution.
 *
-* @author John Dong
+* 
 * @version 03/06/2024
 */
 public class ProcessScheduler {
