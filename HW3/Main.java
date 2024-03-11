@@ -3,14 +3,28 @@
 // import org.junit.jupiter.api.Test;
 
 public class Main {
-  public static void main(String[] args) {
-     Amtrack sacramentoTrain = new Amtrack("sacramento.txt");
-     sacramentoTrain.displayCars();
   
-    }
-  }
+  public static void main(String[] args) {
+  
+      Amtrack sacramentoTrain = new Amtrack("sacramento.txt");
+      sacramentoTrain.displayCars();
+      
+      Amtrack sanjoseTrain = new Amtrack("sanjose.txt");
+      sanjoseTrain.displayCars();
+      
 
-  // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
-  // }
+      /*
+      System.out.println(sacramentoTrain.findCar(new Car("Oakland",6, "Northeastern University in Oakland")));
+      
+      sacramentoTrain.detachCar(new Car("Oakland",6,"Northeastern University in Oakland"));
+      sacramentoTrain.displayCars();
+      
+      */
+      
+      
+      sacramentoTrain.mergeCars(sanjoseTrain);
+      sacramentoTrain.displayCars();
+
+      
+  }
+}
