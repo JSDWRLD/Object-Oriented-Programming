@@ -1,0 +1,4 @@
+San jose,9, San Jose state University
+Martinez,4, John F Kennedy University
+Hayward,7, CSU East Bay
+Santa Clara,8, Santa Clara University

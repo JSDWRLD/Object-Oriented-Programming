@@ -1,0 +1,52 @@
+**Sacramento Train**
+1||Sac State||Sacramento
+2|| UC Davis||Davis
+3|| Blake Austin College||Vacaville
+4|| John F Kennedy University||Martinez
+5|| UC Berkeley||Berkeley
+6|| Northeastern University in Oakland||Oakland
+
+**San Jose Train**
+4|| John F Kennedy University||Martinez
+7|| CSU East Bay||Hayward
+8|| Santa Clara University||Santa Clara
+9|| San Jose state University||San jose
+
+** Detaching Oakland Car **
+1||Sac State||Sacramento
+2|| UC Davis||Davis
+3|| Blake Austin College||Vacaville
+4|| John F Kennedy University||Martinez
+5|| UC Berkeley||Berkeley
+
+** Merging the trains **
+1||Sac State||Sacramento
+2|| UC Davis||Davis
+3|| Blake Austin College||Vacaville
+4|| John F Kennedy University||Martinez
+4|| John F Kennedy University||Martinez
+5|| UC Berkeley||Berkeley
+7|| CSU East Bay||Hayward
+8|| Santa Clara University||Santa Clara
+9|| San Jose state University||San jose
+
+** Reversing the trains **
+9|| San Jose state University||San jose
+8|| Santa Clara University||Santa Clara
+7|| CSU East Bay||Hayward
+5|| UC Berkeley||Berkeley
+4|| John F Kennedy University||Martinez
+4|| John F Kennedy University||Martinez
+3|| Blake Austin College||Vacaville
+2|| UC Davis||Davis
+1||Sac State||Sacramento
+
+** Detaching Duplicate Martinez Car **
+9|| San Jose state University||San jose
+8|| Santa Clara University||Santa Clara
+7|| CSU East Bay||Hayward
+5|| UC Berkeley||Berkeley
+4|| John F Kennedy University||Martinez
+3|| Blake Austin College||Vacaville
+2|| UC Davis||Davis
+1||Sac State||Sacramento
