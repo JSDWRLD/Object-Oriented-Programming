@@ -1,6 +1,3 @@
-Absolutely! Here's the updated README.md with Labs 7 and  8 restructured for consistency:
-Markdown
-
 # CSC-20 Advanced Java
 
 This repository documents my academic journey through CSC 20, highlighting key concepts and projects.
