@@ -1,6 +1,0 @@
-Sacramento,1,Sac State
-Davis,2, UC Davis
-Berkeley,5, UC Berkeley
-Oakland,6, Northeastern University in Oakland
-Vacaville,3, Blake Austin College
-Martinez,4, John F Kennedy University
