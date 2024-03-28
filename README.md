@@ -36,6 +36,10 @@ This repository documents my academic journey through CSC 20, highlighting key c
  - Applied Concepts: LinkedList, ListNodes.
  - Description: Creating a dynamic song list using a LinkedList, allowing users to manipulate the chart including deleting, inserting, moving, and finding songs.
 
+**Lab 9: Recursive String Check**
+ - Applied Concepts: Recursion.
+ - Description: Utilizing a recursive method to check if two strings are the same, case insensitive.
+
 ## Assignments
 
 **Assignment 1: Cartographic Inquiry**
