@@ -38,7 +38,7 @@ This repository documents my academic journey through CSC 20, highlighting key c
 
 **Lab 9: Recursive String Check**
  - Applied Concepts: Recursion.
- - Description: Utilizing a recursive method to check if two strings are the same, case insensitive.
+ - Description: This lab explores the implementation of a recursive function to determine if two strings are equal, disregarding case sensitivity.
 
 ## Assignments
 
