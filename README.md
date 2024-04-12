@@ -40,6 +40,10 @@ This repository documents my academic journey through CSC 20, highlighting key c
  - Applied Concepts: Recursion.
  - Description: This lab explores the implementation of a recursive function to determine if two strings are equal, disregarding case sensitivity.
 
+**Lab 10: Smart String List**
+ - Applied Concepts: Binary Search, Selection Sort
+ - Description: Creating a Smart String List which has a searching method of O(log n) for fast searches.
+
 ## Assignments
 
 **Assignment 1: Cartographic Inquiry**
