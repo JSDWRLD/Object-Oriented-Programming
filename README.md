@@ -54,6 +54,6 @@ This repository documents my academic journey through CSC 20, highlighting key c
  - Applied Concepts: OOP, Inheritance, Class Composition.
  - Description: Exploring object-oriented inheritance and class composition by crafting TwoDayPackage and OverNightPackage entities with dynamically extended functionalities. 
 
-**Assignment 3: Amtrak Train**
+**Assignment 3: Amtrak**
  - Applied Concepts: Linked List, List Nodes, Inheritance
  - Description: Creating a Linked List from scratch featuring a List Node class and methods to simulate a Amtrak train with carts.
