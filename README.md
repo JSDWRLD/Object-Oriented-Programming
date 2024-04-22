@@ -57,3 +57,7 @@ This repository documents my academic journey through CSC 20, highlighting key c
 **Assignment 3: Amtrak**
  - Applied Concepts: Linked List, List Nodes, Inheritance
  - Description: Creating a Linked List from scratch featuring a List Node class and methods to simulate a Amtrak train with carts.
+
+**Assignment 4: Binary Phonebook**
+ - Applied Concepts: Binary Search, Bubble Sort, Selection Sort
+ - Description: Creating a organized phonebook with several methods. Each method showcases sorting techniques and a binary search for the last names.
