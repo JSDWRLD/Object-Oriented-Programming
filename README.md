@@ -44,6 +44,10 @@ This repository documents my academic journey through CSC 20, highlighting key c
  - Applied Concepts: Binary Search, Selection Sort
  - Description: Creating a Smart String List which has a searching method of O(log n) for fast searches.
 
+**Lab 11: Calculator GUI**
+ - Applied Concepts: Java Swing
+ - Description: Creating a simple calculator using Java Swing for basic UI.
+
 ## Assignments
 
 **Assignment 1: Cartographic Inquiry**
