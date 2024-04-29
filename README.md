@@ -42,11 +42,15 @@ This repository documents my academic journey through CSC 20, highlighting key c
 
 **Lab 10: Smart String List**
  - Applied Concepts: Binary Search, Selection Sort
- - Description: Creating a Smart String List which has a searching method of O(log n) for fast searches.
+ - Description: Delve into the realm of efficient data management with the Smart String List! Harnessing the power of Binary Search, this project boasts lightning-fast search capabilities with O(log n) efficiency, ensuring swift retrieval of data from even the largest datasets.
 
 **Lab 11: Calculator GUI**
- - Applied Concepts: Java Swing
- - Description: Creating a simple calculator using Java Swing for basic UI.
+ - Applied Concepts:Java Swing
+ - Description: Embark on a journey into the world of user-friendly interfaces with the Calculator GUI project. Utilizing the versatility of Java Swing, this endeavor crafts a sleek and intuitive calculator, providing users with a seamless experience for performing basic arithmetic operations.
+
+**Lab 12: **
+ - Applied Concepts: 
+ - Description: 
 
 ## Assignments
 
