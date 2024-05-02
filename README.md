@@ -48,10 +48,6 @@ This repository documents my academic journey through CSC 20, highlighting key c
  - Applied Concepts:Java Swing
  - Description: Embark on a journey into the world of user-friendly interfaces with the Calculator GUI project. Utilizing the versatility of Java Swing, this endeavor crafts a sleek and intuitive calculator, providing users with a seamless experience for performing basic arithmetic operations.
 
-**Lab 12: **
- - Applied Concepts: 
- - Description: 
-
 ## Assignments
 
 **Assignment 1: Cartographic Inquiry**
