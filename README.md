@@ -2,6 +2,24 @@
 
 This repository documents my academic journey through CSC 20, highlighting key concepts and projects.
 
+## Assignments
+
+**Assignment 1: Cartographic Inquiry**
+ - Applied Concepts: OOP, Array-based Framework, Shopping Cart Logic.
+ - Description: Constructing a comprehensive shopping cart system facilitating seamless item addition and removal within an array-based framework.
+
+**Assignment 2: Parcel Dynamics**
+ - Applied Concepts: OOP, Inheritance, Class Composition.
+ - Description: Exploring object-oriented inheritance and class composition by crafting TwoDayPackage and OverNightPackage entities with dynamically extended functionalities. 
+
+**Assignment 3: Amtrak**
+ - Applied Concepts: Linked List, List Nodes, Inheritance
+ - Description: Creating a Linked List from scratch featuring a List Node class and methods to simulate a Amtrak train with carts.
+
+**Assignment 4: Binary Phonebook**
+ - Applied Concepts: Binary Search, Bubble Sort, Selection Sort
+ - Description: Creating a organized phonebook with several methods. Each method showcases sorting techniques and a binary search for the last names.
+
 ## Labs
 
 **Lab 1: The Oracle Algorithm**
@@ -48,20 +66,4 @@ This repository documents my academic journey through CSC 20, highlighting key c
  - Applied Concepts:Java Swing
  - Description: Embark on a journey into the world of user-friendly interfaces with the Calculator GUI project. Utilizing the versatility of Java Swing, this endeavor crafts a sleek and intuitive calculator, providing users with a seamless experience for performing basic arithmetic operations.
 
-## Assignments
 
-**Assignment 1: Cartographic Inquiry**
- - Applied Concepts: OOP, Array-based Framework, Shopping Cart Logic.
- - Description: Constructing a comprehensive shopping cart system facilitating seamless item addition and removal within an array-based framework.
-
-**Assignment 2: Parcel Dynamics**
- - Applied Concepts: OOP, Inheritance, Class Composition.
- - Description: Exploring object-oriented inheritance and class composition by crafting TwoDayPackage and OverNightPackage entities with dynamically extended functionalities. 
-
-**Assignment 3: Amtrak**
- - Applied Concepts: Linked List, List Nodes, Inheritance
- - Description: Creating a Linked List from scratch featuring a List Node class and methods to simulate a Amtrak train with carts.
-
-**Assignment 4: Binary Phonebook**
- - Applied Concepts: Binary Search, Bubble Sort, Selection Sort
- - Description: Creating a organized phonebook with several methods. Each method showcases sorting techniques and a binary search for the last names.
