@@ -1,6 +1,6 @@
-# CSC-20 Advanced Java
+# Object-Oriented-Programming
 
-This repository documents my academic journey through CSC 20, highlighting key concepts and projects.
+This repository documents my academic journey, highlighting key concepts and projects.
 
 ## Assignments
 
